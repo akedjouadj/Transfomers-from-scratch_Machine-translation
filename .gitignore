@@ -1,0 +1,5 @@
+/Transformers_venv/
+/theory/
+my_checkpoint.pth.tar
+my_checkpoint_params.txt
+/__pycache__/
